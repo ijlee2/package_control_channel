@@ -979,6 +979,18 @@
 			]
 		},
 		{
+			"name": "GJS",
+			"details": "https://github.com/ijlee2/sublime-syntax-definition-template-tag",
+			"description": "Provides syntax highlighting for *.gjs files",
+			"labels": ["language syntax", "ember", "gjs", "template tag"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "gjs"
+				}
+			]
+		},
+		{
 			"name": "GL Shader Validator",
 			"details": "https://github.com/WebGLTools/GL-Shader-Validator",
 			"releases": [
@@ -2383,6 +2395,19 @@
 					"sublime_text": "*",
 					"platforms": "linux",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "GTS",
+			"details": "https://github.com/ijlee2/sublime-syntax-definition-template-tag",
+			"description": "Provides syntax highlighting for *.gts files",
+			"labels": ["language syntax", "ember", "gts", "template tag"],
+			"previous_names": ["Template Tag"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "gts"
 				}
 			]
 		},
